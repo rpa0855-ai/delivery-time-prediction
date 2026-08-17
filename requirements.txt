@@ -5,4 +5,9 @@ scikit-learn
 scipy
 seaborn
 matplotlib
+streamlit
+joblib
 shap
+xgboost
+catboost
+lightgbm
